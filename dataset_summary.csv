@@ -1,0 +1,10 @@
+file,rows,columns
+athletes.csv,1000,16
+training_sessions.csv,66912,11
+performance_tests.csv,10615,8
+competition_results.csv,7533,11
+medals.csv,3724,7
+injuries.csv,453,9
+readiness_scores.csv,1000,8
+coach_notes.csv,6498,5
+team_accolades.csv,5,4

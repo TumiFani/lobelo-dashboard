@@ -1,0 +1,454 @@
+injury_id,athlete_id,injury_type,body_area,severity,start_date,end_date,days_lost,recurrence_flag
+INJ000001,A0001,Lower back tightness,Lower back,Moderate,2023-09-30,2023-10-08,8,False
+INJ000002,A0002,Hamstring strain,Posterior thigh,High,2022-04-14,2022-04-26,12,False
+INJ000003,A0002,Achilles irritation,Achilles,High,2021-12-05,2022-01-10,36,False
+INJ000004,A0007,Achilles irritation,Achilles,High,2021-02-18,2021-03-08,18,False
+INJ000005,A0009,Hamstring strain,Posterior thigh,Low,2021-09-11,2021-09-16,5,False
+INJ000006,A0014,Calf strain,Lower leg,Low,2024-07-25,2024-08-04,10,False
+INJ000007,A0016,Hip flexor strain,Hip,Severe,2020-06-10,2020-06-13,3,False
+INJ000008,A0020,Hamstring strain,Posterior thigh,High,2021-02-12,2021-03-01,17,False
+INJ000009,A0021,Achilles irritation,Achilles,Low,2020-03-24,2020-04-17,24,False
+INJ000010,A0026,Lower back tightness,Lower back,Low,2023-03-16,2023-03-19,3,True
+INJ000011,A0029,Lower back tightness,Lower back,Moderate,2024-08-25,2024-09-18,24,False
+INJ000012,A0033,Calf strain,Lower leg,Low,2022-12-29,2023-01-19,21,False
+INJ000013,A0036,Lower back tightness,Lower back,Moderate,2024-08-03,2024-08-12,9,True
+INJ000014,A0037,Knee pain,Knee,Moderate,2024-11-07,2024-11-17,10,True
+INJ000015,A0037,Hamstring strain,Posterior thigh,Moderate,2022-07-10,2022-07-23,13,False
+INJ000016,A0040,Calf strain,Lower leg,Low,2024-09-08,2024-09-26,18,False
+INJ000017,A0041,Knee pain,Knee,Moderate,2024-02-27,2024-03-05,7,True
+INJ000018,A0046,Achilles irritation,Achilles,Moderate,2023-11-11,2023-11-24,13,False
+INJ000019,A0050,Knee pain,Knee,Moderate,2020-07-07,2020-07-11,4,False
+INJ000020,A0053,Knee pain,Knee,Low,2020-04-13,2020-05-13,30,False
+INJ000021,A0060,Lower back tightness,Lower back,Moderate,2021-02-06,2021-02-21,15,False
+INJ000022,A0061,Achilles irritation,Achilles,Low,2020-12-11,2020-12-31,20,False
+INJ000023,A0061,Hamstring strain,Posterior thigh,Moderate,2022-07-20,2022-08-08,19,False
+INJ000024,A0062,Lower back tightness,Lower back,High,2021-05-31,2021-06-30,30,False
+INJ000025,A0065,Achilles irritation,Achilles,Moderate,2021-06-23,2021-08-01,39,False
+INJ000026,A0066,Knee pain,Knee,High,2023-02-24,2023-04-01,36,False
+INJ000027,A0067,Lower back tightness,Lower back,Moderate,2021-12-29,2022-01-01,3,False
+INJ000028,A0069,Hamstring strain,Posterior thigh,Low,2021-11-26,2021-12-13,17,False
+INJ000029,A0071,Achilles irritation,Achilles,Low,2020-07-03,2020-07-26,23,False
+INJ000030,A0073,Calf strain,Lower leg,High,2024-03-26,2024-04-15,20,False
+INJ000031,A0074,Lower back tightness,Lower back,Low,2023-09-22,2023-10-16,24,True
+INJ000032,A0076,Achilles irritation,Achilles,Moderate,2023-03-08,2023-03-30,22,True
+INJ000033,A0078,Achilles irritation,Achilles,Low,2020-08-01,2020-08-14,13,True
+INJ000034,A0086,Lower back tightness,Lower back,Low,2024-05-10,2024-05-21,11,True
+INJ000035,A0088,Knee pain,Knee,Low,2024-10-24,2024-11-07,14,False
+INJ000036,A0091,Hamstring strain,Posterior thigh,High,2020-06-11,2020-07-11,30,False
+INJ000037,A0096,Knee pain,Knee,Low,2021-04-24,2021-04-29,5,False
+INJ000038,A0098,Achilles irritation,Achilles,Low,2020-05-27,2020-06-12,16,True
+INJ000039,A0100,Knee pain,Knee,Low,2022-05-20,2022-06-24,35,False
+INJ000040,A0101,Hip flexor strain,Hip,Moderate,2023-07-07,2023-07-25,18,False
+INJ000041,A0103,Achilles irritation,Achilles,Moderate,2020-05-27,2020-06-20,24,False
+INJ000042,A0106,Calf strain,Lower leg,Low,2020-04-11,2020-05-03,22,False
+INJ000043,A0108,Calf strain,Lower leg,Severe,2023-05-04,2023-05-16,12,False
+INJ000044,A0108,Achilles irritation,Achilles,Low,2022-09-17,2022-09-23,6,False
+INJ000045,A0109,Hamstring strain,Posterior thigh,Severe,2020-01-01,2020-01-04,3,False
+INJ000046,A0111,Knee pain,Knee,Severe,2022-11-27,2022-12-13,16,False
+INJ000047,A0115,Lower back tightness,Lower back,Moderate,2021-06-26,2021-08-18,53,False
+INJ000048,A0116,Lower back tightness,Lower back,Moderate,2022-05-24,2022-07-09,46,True
+INJ000049,A0119,Achilles irritation,Achilles,High,2022-01-15,2022-02-06,22,True
+INJ000050,A0124,Lower back tightness,Lower back,High,2020-08-29,2020-09-15,17,False
+INJ000051,A0125,Achilles irritation,Achilles,Moderate,2024-03-03,2024-03-19,16,False
+INJ000052,A0129,Knee pain,Knee,Low,2022-12-05,2023-01-08,34,False
+INJ000053,A0130,Hip flexor strain,Hip,High,2023-04-23,2023-05-06,13,False
+INJ000054,A0131,Calf strain,Lower leg,High,2022-11-11,2022-11-24,13,True
+INJ000055,A0132,Calf strain,Lower leg,Severe,2023-03-26,2023-04-19,24,False
+INJ000056,A0133,Knee pain,Knee,Moderate,2023-08-28,2023-09-04,7,True
+INJ000057,A0134,Knee pain,Knee,Moderate,2022-09-17,2022-09-20,3,False
+INJ000058,A0135,Achilles irritation,Achilles,Moderate,2024-07-03,2024-07-07,4,False
+INJ000059,A0136,Hamstring strain,Posterior thigh,Low,2023-11-04,2023-11-12,8,False
+INJ000060,A0141,Hamstring strain,Posterior thigh,High,2024-04-30,2024-05-06,6,False
+INJ000061,A0143,Knee pain,Knee,Low,2023-01-02,2023-01-12,10,True
+INJ000062,A0144,Lower back tightness,Lower back,Low,2024-01-15,2024-02-09,25,False
+INJ000063,A0144,Knee pain,Knee,High,2021-08-27,2021-10-06,40,False
+INJ000064,A0146,Achilles irritation,Achilles,Moderate,2023-09-06,2023-09-15,9,False
+INJ000065,A0147,Achilles irritation,Achilles,Low,2020-06-06,2020-07-14,38,False
+INJ000066,A0150,Achilles irritation,Achilles,Low,2021-10-01,2021-10-15,14,False
+INJ000067,A0151,Hip flexor strain,Hip,Low,2023-07-27,2023-08-08,12,False
+INJ000068,A0156,Achilles irritation,Achilles,Low,2024-01-28,2024-02-12,15,False
+INJ000069,A0158,Hamstring strain,Posterior thigh,Moderate,2020-08-18,2020-08-31,13,False
+INJ000070,A0160,Calf strain,Lower leg,Low,2024-05-04,2024-05-22,18,False
+INJ000071,A0161,Achilles irritation,Achilles,Low,2021-09-06,2021-10-08,32,True
+INJ000072,A0162,Hamstring strain,Posterior thigh,Low,2023-08-20,2023-09-30,41,False
+INJ000073,A0164,Knee pain,Knee,High,2021-09-02,2021-09-05,3,False
+INJ000074,A0164,Lower back tightness,Lower back,Low,2024-05-24,2024-06-21,28,False
+INJ000075,A0172,Knee pain,Knee,Low,2021-12-08,2022-01-10,33,True
+INJ000076,A0173,Hip flexor strain,Hip,Low,2023-05-29,2023-06-04,6,False
+INJ000077,A0174,Lower back tightness,Lower back,Low,2020-07-11,2020-08-12,32,True
+INJ000078,A0175,Hip flexor strain,Hip,Low,2023-06-26,2023-07-07,11,True
+INJ000079,A0178,Knee pain,Knee,Low,2020-07-07,2020-07-14,7,False
+INJ000080,A0179,Calf strain,Lower leg,Low,2024-04-21,2024-06-05,45,False
+INJ000081,A0181,Hamstring strain,Posterior thigh,Low,2022-10-06,2022-11-01,26,False
+INJ000082,A0183,Lower back tightness,Lower back,Severe,2021-03-23,2021-04-20,28,False
+INJ000083,A0184,Hip flexor strain,Hip,Low,2020-11-09,2020-12-05,26,False
+INJ000084,A0185,Hip flexor strain,Hip,Moderate,2020-02-26,2020-03-15,18,False
+INJ000085,A0185,Hamstring strain,Posterior thigh,Moderate,2021-09-25,2021-10-21,26,False
+INJ000086,A0185,Hip flexor strain,Hip,Low,2022-09-30,2022-10-27,27,True
+INJ000087,A0187,Hip flexor strain,Hip,High,2023-08-26,2023-08-30,4,True
+INJ000088,A0188,Hip flexor strain,Hip,Low,2024-04-07,2024-04-23,16,False
+INJ000089,A0191,Calf strain,Lower leg,Low,2022-06-09,2022-07-05,26,False
+INJ000090,A0194,Lower back tightness,Lower back,High,2022-06-11,2022-06-20,9,False
+INJ000091,A0199,Achilles irritation,Achilles,Moderate,2020-03-15,2020-04-01,17,False
+INJ000092,A0199,Calf strain,Lower leg,Low,2021-07-22,2021-08-03,12,False
+INJ000093,A0201,Hip flexor strain,Hip,Moderate,2021-07-09,2021-07-15,6,True
+INJ000094,A0204,Hip flexor strain,Hip,High,2022-06-19,2022-07-05,16,False
+INJ000095,A0208,Hamstring strain,Posterior thigh,Severe,2023-09-24,2023-10-16,22,True
+INJ000096,A0214,Hamstring strain,Posterior thigh,Moderate,2021-06-16,2021-07-01,15,False
+INJ000097,A0216,Achilles irritation,Achilles,High,2020-04-23,2020-05-16,23,False
+INJ000098,A0218,Lower back tightness,Lower back,High,2021-07-01,2021-07-08,7,False
+INJ000099,A0222,Achilles irritation,Achilles,High,2022-03-06,2022-03-23,17,False
+INJ000100,A0224,Hamstring strain,Posterior thigh,Moderate,2024-07-23,2024-08-12,20,False
+INJ000101,A0225,Calf strain,Lower leg,Moderate,2020-12-18,2020-12-25,7,False
+INJ000102,A0226,Knee pain,Knee,Low,2020-03-12,2020-03-30,18,False
+INJ000103,A0227,Achilles irritation,Achilles,Moderate,2022-07-03,2022-07-20,17,False
+INJ000104,A0230,Hip flexor strain,Hip,Low,2020-09-17,2020-10-22,35,False
+INJ000105,A0231,Hip flexor strain,Hip,Low,2021-05-10,2021-05-22,12,True
+INJ000106,A0233,Knee pain,Knee,Low,2021-02-02,2021-02-21,19,False
+INJ000107,A0234,Hip flexor strain,Hip,Low,2020-07-06,2020-07-22,16,False
+INJ000108,A0236,Hip flexor strain,Hip,Severe,2024-06-20,2024-07-15,25,False
+INJ000109,A0241,Hip flexor strain,Hip,Low,2021-03-16,2021-03-19,3,True
+INJ000110,A0242,Knee pain,Knee,Low,2023-09-14,2023-10-16,32,False
+INJ000111,A0246,Lower back tightness,Lower back,Moderate,2021-09-04,2021-10-06,32,False
+INJ000112,A0246,Calf strain,Lower leg,Low,2023-04-12,2023-04-18,6,False
+INJ000113,A0250,Achilles irritation,Achilles,Moderate,2022-02-19,2022-03-17,26,False
+INJ000114,A0251,Hamstring strain,Posterior thigh,Moderate,2020-10-30,2020-11-10,11,False
+INJ000115,A0252,Knee pain,Knee,High,2023-10-04,2023-10-30,26,False
+INJ000116,A0252,Calf strain,Lower leg,Moderate,2020-10-18,2020-10-31,13,False
+INJ000117,A0253,Hamstring strain,Posterior thigh,Moderate,2024-09-22,2024-10-17,25,False
+INJ000118,A0256,Hip flexor strain,Hip,Low,2020-01-28,2020-02-23,26,False
+INJ000119,A0257,Achilles irritation,Achilles,Low,2022-01-24,2022-02-24,31,False
+INJ000120,A0260,Calf strain,Lower leg,Low,2021-01-18,2021-02-04,17,False
+INJ000121,A0261,Calf strain,Lower leg,Low,2023-05-04,2023-05-07,3,False
+INJ000122,A0262,Calf strain,Lower leg,Moderate,2024-06-27,2024-07-23,26,False
+INJ000123,A0265,Hip flexor strain,Hip,Moderate,2020-09-09,2020-09-20,11,True
+INJ000124,A0267,Hamstring strain,Posterior thigh,Low,2024-02-11,2024-03-08,26,False
+INJ000125,A0272,Hamstring strain,Posterior thigh,Low,2024-10-31,2024-11-14,14,False
+INJ000126,A0276,Hamstring strain,Posterior thigh,Low,2021-08-21,2021-09-12,22,True
+INJ000127,A0279,Hip flexor strain,Hip,Low,2024-07-01,2024-07-14,13,False
+INJ000128,A0284,Achilles irritation,Achilles,Moderate,2023-04-21,2023-05-27,36,False
+INJ000129,A0290,Lower back tightness,Lower back,Low,2022-05-16,2022-06-01,16,False
+INJ000130,A0291,Knee pain,Knee,High,2023-03-25,2023-04-16,22,False
+INJ000131,A0297,Knee pain,Knee,High,2020-02-28,2020-03-16,17,True
+INJ000132,A0299,Knee pain,Knee,Moderate,2022-07-14,2022-07-26,12,False
+INJ000133,A0301,Hamstring strain,Posterior thigh,Severe,2022-04-25,2022-06-08,44,False
+INJ000134,A0303,Hamstring strain,Posterior thigh,Moderate,2024-10-02,2024-10-18,16,False
+INJ000135,A0305,Knee pain,Knee,Moderate,2024-10-17,2024-10-28,11,False
+INJ000136,A0313,Hamstring strain,Posterior thigh,Moderate,2022-03-23,2022-04-09,17,False
+INJ000137,A0316,Lower back tightness,Lower back,High,2020-02-18,2020-03-05,16,False
+INJ000138,A0318,Knee pain,Knee,High,2022-05-05,2022-05-28,23,True
+INJ000139,A0319,Knee pain,Knee,Severe,2024-04-05,2024-04-24,19,False
+INJ000140,A0320,Calf strain,Lower leg,Moderate,2020-08-05,2020-08-08,3,True
+INJ000141,A0322,Knee pain,Knee,Moderate,2021-12-17,2022-01-12,26,False
+INJ000142,A0325,Achilles irritation,Achilles,Low,2023-06-11,2023-06-17,6,False
+INJ000143,A0326,Hip flexor strain,Hip,High,2023-09-30,2023-10-06,6,False
+INJ000144,A0328,Hip flexor strain,Hip,Moderate,2024-07-10,2024-07-13,3,False
+INJ000145,A0331,Knee pain,Knee,High,2022-11-06,2022-11-26,20,False
+INJ000146,A0332,Hamstring strain,Posterior thigh,Low,2020-02-18,2020-03-03,14,False
+INJ000147,A0334,Knee pain,Knee,Moderate,2020-04-04,2020-04-10,6,False
+INJ000148,A0336,Achilles irritation,Achilles,Moderate,2023-06-03,2023-06-30,27,False
+INJ000149,A0337,Achilles irritation,Achilles,High,2024-04-07,2024-04-29,22,True
+INJ000150,A0338,Achilles irritation,Achilles,Low,2021-03-07,2021-03-28,21,False
+INJ000151,A0339,Knee pain,Knee,High,2024-11-08,2024-12-01,23,False
+INJ000152,A0340,Knee pain,Knee,Low,2020-10-15,2020-11-20,36,False
+INJ000153,A0340,Achilles irritation,Achilles,Low,2020-04-20,2020-05-04,14,False
+INJ000154,A0344,Hamstring strain,Posterior thigh,High,2020-07-16,2020-08-04,19,False
+INJ000155,A0345,Hamstring strain,Posterior thigh,Low,2022-01-13,2022-01-16,3,False
+INJ000156,A0345,Calf strain,Lower leg,High,2023-07-19,2023-08-19,31,False
+INJ000157,A0348,Hip flexor strain,Hip,Low,2020-08-17,2020-09-29,43,False
+INJ000158,A0351,Hamstring strain,Posterior thigh,High,2023-10-17,2023-11-10,24,False
+INJ000159,A0353,Achilles irritation,Achilles,Low,2022-09-17,2022-10-03,16,False
+INJ000160,A0353,Hip flexor strain,Hip,Moderate,2023-09-29,2023-10-09,10,False
+INJ000161,A0357,Hamstring strain,Posterior thigh,High,2022-12-22,2023-01-09,18,False
+INJ000162,A0359,Hip flexor strain,Hip,Low,2024-06-13,2024-07-05,22,False
+INJ000163,A0359,Knee pain,Knee,High,2023-09-27,2023-10-09,12,False
+INJ000164,A0360,Calf strain,Lower leg,Low,2023-06-21,2023-07-18,27,True
+INJ000165,A0364,Lower back tightness,Lower back,Moderate,2024-07-25,2024-09-05,42,False
+INJ000166,A0365,Knee pain,Knee,Low,2024-09-18,2024-10-09,21,True
+INJ000167,A0365,Lower back tightness,Lower back,Low,2021-02-27,2021-03-23,24,False
+INJ000168,A0369,Lower back tightness,Lower back,Severe,2020-12-13,2021-01-02,20,False
+INJ000169,A0371,Calf strain,Lower leg,Low,2023-08-03,2023-08-13,10,False
+INJ000170,A0371,Hip flexor strain,Hip,Moderate,2023-04-02,2023-04-06,4,False
+INJ000171,A0372,Lower back tightness,Lower back,High,2024-10-18,2024-11-17,30,True
+INJ000172,A0373,Hip flexor strain,Hip,Moderate,2021-12-18,2021-12-30,12,False
+INJ000173,A0379,Hamstring strain,Posterior thigh,Low,2023-05-14,2023-05-17,3,False
+INJ000174,A0380,Calf strain,Lower leg,Moderate,2020-09-16,2020-10-17,31,False
+INJ000175,A0381,Hamstring strain,Posterior thigh,Low,2022-09-14,2022-09-23,9,False
+INJ000176,A0381,Knee pain,Knee,Moderate,2020-08-21,2020-08-30,9,True
+INJ000177,A0383,Hip flexor strain,Hip,Moderate,2020-10-17,2020-11-05,19,False
+INJ000178,A0384,Lower back tightness,Lower back,Low,2024-11-07,2024-12-29,52,False
+INJ000179,A0385,Lower back tightness,Lower back,Low,2023-08-24,2023-09-16,23,False
+INJ000180,A0385,Knee pain,Knee,Low,2022-12-06,2022-12-31,25,False
+INJ000181,A0386,Hamstring strain,Posterior thigh,High,2023-05-29,2023-06-18,20,True
+INJ000182,A0387,Hip flexor strain,Hip,Low,2021-02-08,2021-02-20,12,False
+INJ000183,A0392,Hip flexor strain,Hip,Moderate,2020-01-16,2020-02-15,30,False
+INJ000184,A0394,Hamstring strain,Posterior thigh,High,2024-09-24,2024-10-15,21,False
+INJ000185,A0397,Calf strain,Lower leg,Moderate,2024-07-14,2024-08-10,27,False
+INJ000186,A0397,Calf strain,Lower leg,Low,2024-03-24,2024-03-27,3,False
+INJ000187,A0398,Lower back tightness,Lower back,Low,2024-05-23,2024-05-26,3,False
+INJ000188,A0399,Knee pain,Knee,Low,2020-10-14,2020-10-27,13,False
+INJ000189,A0400,Hamstring strain,Posterior thigh,Moderate,2020-06-15,2020-07-19,34,False
+INJ000190,A0404,Achilles irritation,Achilles,Low,2024-04-23,2024-05-17,24,True
+INJ000191,A0409,Achilles irritation,Achilles,Moderate,2023-12-08,2024-01-03,26,False
+INJ000192,A0409,Hamstring strain,Posterior thigh,Moderate,2021-04-10,2021-05-03,23,False
+INJ000193,A0410,Achilles irritation,Achilles,Moderate,2023-06-23,2023-07-10,17,False
+INJ000194,A0412,Calf strain,Lower leg,High,2021-10-21,2021-10-29,8,True
+INJ000195,A0413,Hamstring strain,Posterior thigh,Low,2020-12-19,2020-12-27,8,False
+INJ000196,A0414,Hamstring strain,Posterior thigh,Moderate,2022-05-13,2022-06-23,41,False
+INJ000197,A0416,Calf strain,Lower leg,Moderate,2022-02-11,2022-03-07,24,False
+INJ000198,A0423,Achilles irritation,Achilles,Moderate,2024-01-27,2024-02-11,15,False
+INJ000199,A0423,Knee pain,Knee,Moderate,2021-08-30,2021-09-18,19,False
+INJ000200,A0423,Lower back tightness,Lower back,Moderate,2020-07-10,2020-08-17,38,False
+INJ000201,A0426,Achilles irritation,Achilles,Moderate,2022-04-22,2022-05-16,24,False
+INJ000202,A0428,Hip flexor strain,Hip,Moderate,2023-05-10,2023-06-23,44,True
+INJ000203,A0429,Calf strain,Lower leg,Severe,2023-01-13,2023-02-01,19,True
+INJ000204,A0429,Hamstring strain,Posterior thigh,Moderate,2023-09-03,2023-09-15,12,False
+INJ000205,A0432,Hamstring strain,Posterior thigh,Moderate,2024-06-02,2024-06-26,24,False
+INJ000206,A0433,Hip flexor strain,Hip,High,2022-10-06,2022-11-02,27,False
+INJ000207,A0435,Achilles irritation,Achilles,Low,2022-12-12,2023-01-09,28,True
+INJ000208,A0436,Calf strain,Lower leg,Moderate,2022-01-31,2022-02-25,25,False
+INJ000209,A0440,Lower back tightness,Lower back,Low,2023-12-11,2023-12-24,13,False
+INJ000210,A0442,Knee pain,Knee,Moderate,2020-12-12,2021-01-01,20,True
+INJ000211,A0443,Hip flexor strain,Hip,Moderate,2023-01-06,2023-01-15,9,False
+INJ000212,A0444,Knee pain,Knee,Low,2021-11-04,2021-11-15,11,False
+INJ000213,A0444,Knee pain,Knee,High,2020-08-04,2020-08-25,21,False
+INJ000214,A0446,Hip flexor strain,Hip,Moderate,2022-08-12,2022-08-31,19,False
+INJ000215,A0446,Knee pain,Knee,Low,2023-08-25,2023-09-03,9,False
+INJ000216,A0447,Hip flexor strain,Hip,Moderate,2020-06-10,2020-06-29,19,True
+INJ000217,A0450,Achilles irritation,Achilles,Moderate,2020-07-19,2020-08-04,16,False
+INJ000218,A0453,Knee pain,Knee,Low,2022-11-01,2022-11-20,19,False
+INJ000219,A0454,Knee pain,Knee,High,2022-10-04,2022-10-24,20,False
+INJ000220,A0456,Hip flexor strain,Hip,Moderate,2022-05-04,2022-05-07,3,False
+INJ000221,A0458,Hip flexor strain,Hip,High,2023-04-11,2023-04-21,10,True
+INJ000222,A0460,Calf strain,Lower leg,Moderate,2020-02-17,2020-03-13,25,False
+INJ000223,A0461,Lower back tightness,Lower back,High,2022-07-19,2022-08-01,13,False
+INJ000224,A0463,Hip flexor strain,Hip,Severe,2022-01-01,2022-01-20,19,False
+INJ000225,A0465,Hip flexor strain,Hip,Moderate,2021-02-06,2021-02-22,16,False
+INJ000226,A0465,Hamstring strain,Posterior thigh,Moderate,2022-06-12,2022-07-02,20,False
+INJ000227,A0465,Hip flexor strain,Hip,Low,2020-08-29,2020-09-20,22,False
+INJ000228,A0467,Achilles irritation,Achilles,Low,2024-05-31,2024-06-15,15,False
+INJ000229,A0470,Achilles irritation,Achilles,Low,2024-03-04,2024-03-23,19,False
+INJ000230,A0471,Achilles irritation,Achilles,Moderate,2023-06-09,2023-06-26,17,True
+INJ000231,A0471,Calf strain,Lower leg,Low,2024-01-05,2024-01-08,3,False
+INJ000232,A0473,Hamstring strain,Posterior thigh,Low,2024-07-14,2024-07-26,12,False
+INJ000233,A0477,Lower back tightness,Lower back,High,2021-01-25,2021-02-19,25,False
+INJ000234,A0480,Hip flexor strain,Hip,High,2020-04-24,2020-05-04,10,False
+INJ000235,A0481,Achilles irritation,Achilles,Low,2021-11-10,2021-12-02,22,False
+INJ000236,A0484,Hamstring strain,Posterior thigh,Moderate,2022-05-22,2022-07-04,43,False
+INJ000237,A0486,Hip flexor strain,Hip,Low,2024-03-29,2024-04-07,9,False
+INJ000238,A0491,Hip flexor strain,Hip,Moderate,2021-06-22,2021-07-01,9,False
+INJ000239,A0492,Calf strain,Lower leg,Severe,2020-06-14,2020-07-14,30,False
+INJ000240,A0493,Hamstring strain,Posterior thigh,Low,2022-04-11,2022-05-02,21,True
+INJ000241,A0495,Calf strain,Lower leg,Severe,2020-10-13,2020-11-18,36,False
+INJ000242,A0496,Calf strain,Lower leg,High,2021-12-14,2021-12-17,3,False
+INJ000243,A0497,Knee pain,Knee,Low,2020-01-29,2020-02-20,22,False
+INJ000244,A0499,Hamstring strain,Posterior thigh,Moderate,2020-12-21,2021-01-03,13,False
+INJ000245,A0501,Achilles irritation,Achilles,Moderate,2021-03-12,2021-04-06,25,True
+INJ000246,A0503,Knee pain,Knee,Moderate,2020-02-26,2020-03-08,11,False
+INJ000247,A0504,Hip flexor strain,Hip,Low,2024-03-11,2024-04-03,23,True
+INJ000248,A0507,Calf strain,Lower leg,Low,2021-05-27,2021-06-09,13,False
+INJ000249,A0509,Lower back tightness,Lower back,High,2020-10-14,2020-11-11,28,False
+INJ000250,A0510,Hamstring strain,Posterior thigh,Low,2022-02-22,2022-03-19,25,False
+INJ000251,A0514,Hip flexor strain,Hip,Moderate,2024-04-01,2024-04-16,15,True
+INJ000252,A0517,Hip flexor strain,Hip,High,2024-10-09,2024-10-12,3,True
+INJ000253,A0518,Achilles irritation,Achilles,Moderate,2022-08-28,2022-09-27,30,True
+INJ000254,A0518,Hamstring strain,Posterior thigh,Moderate,2020-01-03,2020-02-14,42,False
+INJ000255,A0520,Hamstring strain,Posterior thigh,Moderate,2021-09-25,2021-09-29,4,False
+INJ000256,A0522,Hamstring strain,Posterior thigh,Low,2023-10-10,2023-10-15,5,False
+INJ000257,A0524,Hamstring strain,Posterior thigh,High,2022-01-17,2022-02-04,18,False
+INJ000258,A0529,Hip flexor strain,Hip,High,2022-11-09,2022-11-29,20,False
+INJ000259,A0534,Calf strain,Lower leg,Moderate,2022-02-04,2022-02-22,18,False
+INJ000260,A0534,Hip flexor strain,Hip,High,2021-08-30,2021-10-02,33,False
+INJ000261,A0540,Lower back tightness,Lower back,High,2021-04-13,2021-05-10,27,True
+INJ000262,A0541,Calf strain,Lower leg,High,2021-01-24,2021-02-18,25,False
+INJ000263,A0542,Knee pain,Knee,Low,2022-04-26,2022-05-07,11,False
+INJ000264,A0543,Hip flexor strain,Hip,High,2022-11-15,2022-12-11,26,False
+INJ000265,A0545,Hip flexor strain,Hip,Severe,2022-05-16,2022-05-29,13,True
+INJ000266,A0550,Achilles irritation,Achilles,Low,2024-11-03,2024-11-28,25,False
+INJ000267,A0552,Calf strain,Lower leg,Low,2021-02-09,2021-02-26,17,False
+INJ000268,A0555,Hamstring strain,Posterior thigh,Moderate,2020-04-10,2020-05-12,32,False
+INJ000269,A0560,Hip flexor strain,Hip,Moderate,2022-10-24,2022-10-27,3,False
+INJ000270,A0562,Lower back tightness,Lower back,Low,2021-05-25,2021-06-01,7,False
+INJ000271,A0562,Knee pain,Knee,Severe,2023-05-01,2023-05-16,15,False
+INJ000272,A0564,Hip flexor strain,Hip,Low,2023-06-12,2023-07-25,43,False
+INJ000273,A0571,Calf strain,Lower leg,High,2021-10-03,2021-10-17,14,False
+INJ000274,A0571,Achilles irritation,Achilles,Moderate,2022-01-08,2022-01-14,6,False
+INJ000275,A0576,Achilles irritation,Achilles,Low,2020-04-22,2020-04-29,7,False
+INJ000276,A0578,Hip flexor strain,Hip,High,2022-03-29,2022-04-10,12,False
+INJ000277,A0579,Hamstring strain,Posterior thigh,Low,2024-01-19,2024-02-05,17,False
+INJ000278,A0580,Knee pain,Knee,Low,2020-02-27,2020-03-24,26,False
+INJ000279,A0582,Hamstring strain,Posterior thigh,Moderate,2024-08-12,2024-09-14,33,True
+INJ000280,A0582,Hip flexor strain,Hip,Low,2023-04-06,2023-04-12,6,True
+INJ000281,A0584,Hamstring strain,Posterior thigh,Low,2020-10-27,2020-11-16,20,False
+INJ000282,A0585,Hamstring strain,Posterior thigh,Severe,2022-02-03,2022-02-06,3,False
+INJ000283,A0586,Hamstring strain,Posterior thigh,Low,2022-07-06,2022-07-31,25,False
+INJ000284,A0588,Knee pain,Knee,Moderate,2024-08-01,2024-08-26,25,False
+INJ000285,A0590,Lower back tightness,Lower back,Severe,2023-11-06,2023-12-18,42,False
+INJ000286,A0594,Knee pain,Knee,Moderate,2021-01-29,2021-02-05,7,False
+INJ000287,A0599,Lower back tightness,Lower back,High,2023-03-10,2023-03-27,17,False
+INJ000288,A0599,Lower back tightness,Lower back,Moderate,2020-02-06,2020-02-17,11,False
+INJ000289,A0600,Achilles irritation,Achilles,Severe,2023-06-17,2023-07-13,26,False
+INJ000290,A0601,Hip flexor strain,Hip,Low,2022-06-19,2022-07-08,19,False
+INJ000291,A0602,Hip flexor strain,Hip,Moderate,2024-06-06,2024-06-28,22,True
+INJ000292,A0602,Lower back tightness,Lower back,Moderate,2020-07-20,2020-08-04,15,False
+INJ000293,A0605,Lower back tightness,Lower back,Low,2022-02-28,2022-03-08,8,False
+INJ000294,A0607,Knee pain,Knee,Low,2020-07-10,2020-07-22,12,False
+INJ000295,A0609,Knee pain,Knee,Low,2024-02-08,2024-03-04,25,False
+INJ000296,A0613,Lower back tightness,Lower back,Low,2020-08-19,2020-09-05,17,False
+INJ000297,A0615,Lower back tightness,Lower back,Moderate,2023-11-14,2023-12-08,24,False
+INJ000298,A0615,Knee pain,Knee,Moderate,2024-02-04,2024-03-06,31,False
+INJ000299,A0623,Hip flexor strain,Hip,Low,2023-08-23,2023-09-17,25,False
+INJ000300,A0627,Achilles irritation,Achilles,High,2020-05-20,2020-05-26,6,False
+INJ000301,A0629,Achilles irritation,Achilles,Moderate,2020-04-24,2020-04-29,5,False
+INJ000302,A0635,Hamstring strain,Posterior thigh,High,2023-04-25,2023-05-20,25,True
+INJ000303,A0640,Hamstring strain,Posterior thigh,High,2023-05-09,2023-05-28,19,False
+INJ000304,A0641,Knee pain,Knee,Moderate,2024-03-01,2024-03-21,20,False
+INJ000305,A0643,Knee pain,Knee,High,2021-06-10,2021-07-03,23,True
+INJ000306,A0644,Knee pain,Knee,Moderate,2023-05-29,2023-06-26,28,True
+INJ000307,A0649,Knee pain,Knee,Low,2021-08-19,2021-09-01,13,False
+INJ000308,A0649,Achilles irritation,Achilles,Severe,2021-01-07,2021-02-14,38,False
+INJ000309,A0652,Lower back tightness,Lower back,Low,2020-10-07,2020-10-10,3,False
+INJ000310,A0653,Calf strain,Lower leg,Moderate,2023-07-19,2023-08-17,29,True
+INJ000311,A0660,Knee pain,Knee,Severe,2024-08-14,2024-09-06,23,False
+INJ000312,A0662,Knee pain,Knee,Low,2023-02-24,2023-03-28,32,False
+INJ000313,A0663,Calf strain,Lower leg,Moderate,2023-09-23,2023-10-02,9,False
+INJ000314,A0664,Achilles irritation,Achilles,Moderate,2022-11-27,2022-12-22,25,False
+INJ000315,A0665,Hip flexor strain,Hip,Moderate,2020-12-09,2020-12-25,16,False
+INJ000316,A0666,Achilles irritation,Achilles,High,2020-04-25,2020-05-25,30,False
+INJ000317,A0666,Knee pain,Knee,Moderate,2023-08-02,2023-08-15,13,False
+INJ000318,A0672,Calf strain,Lower leg,Low,2021-10-14,2021-11-10,27,False
+INJ000319,A0673,Hip flexor strain,Hip,Moderate,2022-04-25,2022-05-24,29,True
+INJ000320,A0675,Hip flexor strain,Hip,Low,2022-07-10,2022-07-16,6,False
+INJ000321,A0676,Hip flexor strain,Hip,Low,2023-05-18,2023-06-10,23,False
+INJ000322,A0680,Knee pain,Knee,Moderate,2023-04-14,2023-05-01,17,False
+INJ000323,A0681,Lower back tightness,Lower back,Severe,2021-03-10,2021-03-22,12,False
+INJ000324,A0682,Achilles irritation,Achilles,Moderate,2022-10-30,2022-11-27,28,True
+INJ000325,A0683,Calf strain,Lower leg,Low,2023-12-15,2024-01-07,23,False
+INJ000326,A0685,Hip flexor strain,Hip,Moderate,2023-09-27,2023-10-13,16,False
+INJ000327,A0689,Knee pain,Knee,Moderate,2021-02-25,2021-03-07,10,False
+INJ000328,A0689,Lower back tightness,Lower back,Low,2021-04-28,2021-05-01,3,False
+INJ000329,A0692,Calf strain,Lower leg,Low,2021-09-28,2021-10-09,11,False
+INJ000330,A0694,Knee pain,Knee,Severe,2022-08-10,2022-08-29,19,False
+INJ000331,A0695,Calf strain,Lower leg,Moderate,2020-09-22,2020-09-25,3,False
+INJ000332,A0696,Knee pain,Knee,High,2023-05-21,2023-06-12,22,False
+INJ000333,A0699,Calf strain,Lower leg,High,2024-06-29,2024-07-08,9,False
+INJ000334,A0700,Hamstring strain,Posterior thigh,Low,2021-06-18,2021-07-18,30,False
+INJ000335,A0701,Hamstring strain,Posterior thigh,Moderate,2021-11-24,2021-12-14,20,False
+INJ000336,A0704,Lower back tightness,Lower back,Moderate,2021-03-06,2021-03-30,24,False
+INJ000337,A0712,Lower back tightness,Lower back,High,2024-05-15,2024-05-28,13,False
+INJ000338,A0716,Lower back tightness,Lower back,Severe,2023-05-16,2023-05-21,5,False
+INJ000339,A0717,Hip flexor strain,Hip,Low,2023-11-02,2023-11-19,17,False
+INJ000340,A0718,Calf strain,Lower leg,High,2020-10-16,2020-11-11,26,False
+INJ000341,A0719,Knee pain,Knee,High,2024-01-16,2024-02-02,17,True
+INJ000342,A0723,Knee pain,Knee,Low,2021-09-18,2021-10-23,35,True
+INJ000343,A0724,Calf strain,Lower leg,Low,2021-12-24,2021-12-27,3,False
+INJ000344,A0726,Lower back tightness,Lower back,Low,2024-09-11,2024-10-13,32,True
+INJ000345,A0728,Calf strain,Lower leg,Moderate,2022-02-25,2022-03-23,26,False
+INJ000346,A0729,Achilles irritation,Achilles,Moderate,2020-06-28,2020-07-04,6,False
+INJ000347,A0730,Hip flexor strain,Hip,Severe,2020-09-01,2020-09-11,10,False
+INJ000348,A0732,Calf strain,Lower leg,Moderate,2023-08-08,2023-08-11,3,False
+INJ000349,A0738,Hamstring strain,Posterior thigh,High,2020-10-14,2020-11-12,29,False
+INJ000350,A0740,Hamstring strain,Posterior thigh,High,2023-04-25,2023-06-01,37,False
+INJ000351,A0740,Lower back tightness,Lower back,Severe,2023-06-28,2023-07-19,21,True
+INJ000352,A0745,Calf strain,Lower leg,High,2021-04-20,2021-05-19,29,False
+INJ000353,A0745,Hamstring strain,Posterior thigh,Moderate,2021-06-21,2021-06-24,3,False
+INJ000354,A0747,Achilles irritation,Achilles,High,2022-06-10,2022-06-19,9,False
+INJ000355,A0747,Hip flexor strain,Hip,Moderate,2023-03-08,2023-04-02,25,False
+INJ000356,A0747,Achilles irritation,Achilles,Moderate,2023-09-19,2023-09-26,7,False
+INJ000357,A0756,Lower back tightness,Lower back,Low,2021-07-16,2021-08-14,29,False
+INJ000358,A0757,Achilles irritation,Achilles,Moderate,2020-08-02,2020-08-09,7,False
+INJ000359,A0759,Calf strain,Lower leg,High,2024-01-29,2024-02-18,20,False
+INJ000360,A0760,Lower back tightness,Lower back,Low,2023-12-10,2023-12-13,3,False
+INJ000361,A0762,Knee pain,Knee,Moderate,2022-08-25,2022-09-11,17,False
+INJ000362,A0764,Lower back tightness,Lower back,Low,2021-01-12,2021-01-24,12,False
+INJ000363,A0764,Achilles irritation,Achilles,Low,2023-08-08,2023-08-31,23,False
+INJ000364,A0765,Hip flexor strain,Hip,High,2020-06-13,2020-07-05,22,False
+INJ000365,A0770,Lower back tightness,Lower back,High,2022-07-26,2022-08-21,26,False
+INJ000366,A0770,Hip flexor strain,Hip,Low,2020-10-06,2020-10-31,25,False
+INJ000367,A0775,Knee pain,Knee,High,2021-10-20,2021-11-06,17,True
+INJ000368,A0777,Knee pain,Knee,Moderate,2024-05-13,2024-06-30,48,True
+INJ000369,A0781,Lower back tightness,Lower back,Low,2020-08-05,2020-09-16,42,True
+INJ000370,A0786,Hamstring strain,Posterior thigh,Moderate,2020-11-11,2020-12-04,23,False
+INJ000371,A0788,Knee pain,Knee,Moderate,2023-11-15,2023-11-29,14,True
+INJ000372,A0789,Knee pain,Knee,Low,2021-12-21,2022-01-15,25,True
+INJ000373,A0792,Hamstring strain,Posterior thigh,Low,2021-08-20,2021-10-08,49,False
+INJ000374,A0794,Achilles irritation,Achilles,High,2024-08-07,2024-08-27,20,False
+INJ000375,A0799,Achilles irritation,Achilles,Low,2021-03-13,2021-03-28,15,False
+INJ000376,A0803,Calf strain,Lower leg,Moderate,2023-04-12,2023-04-22,10,False
+INJ000377,A0809,Achilles irritation,Achilles,Moderate,2020-08-22,2020-09-16,25,False
+INJ000378,A0813,Lower back tightness,Lower back,High,2022-01-18,2022-01-26,8,True
+INJ000379,A0813,Hip flexor strain,Hip,Low,2022-04-01,2022-04-06,5,False
+INJ000380,A0813,Knee pain,Knee,High,2022-08-16,2022-09-02,17,True
+INJ000381,A0814,Knee pain,Knee,Low,2024-03-04,2024-04-22,49,False
+INJ000382,A0815,Hip flexor strain,Hip,High,2024-07-23,2024-07-28,5,False
+INJ000383,A0816,Calf strain,Lower leg,Low,2022-02-22,2022-03-02,8,False
+INJ000384,A0818,Lower back tightness,Lower back,Moderate,2024-02-15,2024-03-01,15,False
+INJ000385,A0818,Achilles irritation,Achilles,Low,2022-11-01,2022-11-23,22,False
+INJ000386,A0821,Hamstring strain,Posterior thigh,High,2020-10-17,2020-10-25,8,False
+INJ000387,A0824,Calf strain,Lower leg,High,2020-06-15,2020-06-21,6,False
+INJ000388,A0825,Achilles irritation,Achilles,Moderate,2020-04-22,2020-05-12,20,False
+INJ000389,A0829,Knee pain,Knee,Moderate,2024-07-30,2024-09-01,33,False
+INJ000390,A0830,Achilles irritation,Achilles,Moderate,2020-12-13,2021-01-04,22,False
+INJ000391,A0834,Hip flexor strain,Hip,Low,2020-07-15,2020-08-07,23,False
+INJ000392,A0836,Hip flexor strain,Hip,Moderate,2023-09-10,2023-09-18,8,False
+INJ000393,A0838,Hip flexor strain,Hip,High,2023-10-11,2023-11-05,25,True
+INJ000394,A0839,Lower back tightness,Lower back,Moderate,2023-02-28,2023-03-03,3,False
+INJ000395,A0839,Achilles irritation,Achilles,Moderate,2021-01-12,2021-01-15,3,False
+INJ000396,A0840,Hamstring strain,Posterior thigh,Low,2021-08-11,2021-09-13,33,False
+INJ000397,A0843,Calf strain,Lower leg,Moderate,2023-08-14,2023-08-17,3,False
+INJ000398,A0844,Hamstring strain,Posterior thigh,Low,2020-11-07,2020-12-05,28,False
+INJ000399,A0847,Hip flexor strain,Hip,Low,2023-09-23,2023-09-26,3,False
+INJ000400,A0853,Lower back tightness,Lower back,Moderate,2023-04-03,2023-04-06,3,True
+INJ000401,A0854,Calf strain,Lower leg,Moderate,2020-04-13,2020-05-15,32,False
+INJ000402,A0855,Hip flexor strain,Hip,Moderate,2023-08-09,2023-08-26,17,False
+INJ000403,A0856,Achilles irritation,Achilles,Low,2020-10-09,2020-10-27,18,False
+INJ000404,A0857,Lower back tightness,Lower back,Low,2021-12-27,2022-01-22,26,False
+INJ000405,A0860,Hip flexor strain,Hip,High,2022-06-01,2022-06-21,20,False
+INJ000406,A0860,Calf strain,Lower leg,Moderate,2020-02-07,2020-02-10,3,False
+INJ000407,A0861,Lower back tightness,Lower back,Low,2020-07-16,2020-07-19,3,False
+INJ000408,A0863,Achilles irritation,Achilles,Low,2023-11-08,2023-11-11,3,False
+INJ000409,A0865,Lower back tightness,Lower back,Severe,2021-03-26,2021-04-08,13,False
+INJ000410,A0866,Hip flexor strain,Hip,Low,2024-02-10,2024-03-07,26,False
+INJ000411,A0873,Lower back tightness,Lower back,Severe,2024-04-23,2024-05-13,20,True
+INJ000412,A0874,Hip flexor strain,Hip,Moderate,2022-10-10,2022-10-23,13,False
+INJ000413,A0874,Lower back tightness,Lower back,Severe,2024-07-10,2024-07-26,16,False
+INJ000414,A0878,Achilles irritation,Achilles,High,2020-10-27,2020-10-30,3,False
+INJ000415,A0881,Hip flexor strain,Hip,Moderate,2024-10-17,2024-10-20,3,False
+INJ000416,A0883,Achilles irritation,Achilles,Moderate,2022-11-27,2022-12-10,13,False
+INJ000417,A0886,Calf strain,Lower leg,High,2021-09-10,2021-10-13,33,True
+INJ000418,A0889,Knee pain,Knee,Moderate,2021-12-22,2022-01-22,31,True
+INJ000419,A0892,Hip flexor strain,Hip,Moderate,2024-06-19,2024-07-23,34,False
+INJ000420,A0893,Knee pain,Knee,Low,2023-04-01,2023-04-30,29,True
+INJ000421,A0894,Knee pain,Knee,Moderate,2023-12-27,2024-01-10,14,False
+INJ000422,A0895,Lower back tightness,Lower back,High,2022-09-11,2022-10-03,22,False
+INJ000423,A0898,Lower back tightness,Lower back,Moderate,2024-01-25,2024-02-15,21,False
+INJ000424,A0903,Lower back tightness,Lower back,Low,2024-04-04,2024-04-23,19,False
+INJ000425,A0903,Lower back tightness,Lower back,Moderate,2022-06-24,2022-06-27,3,False
+INJ000426,A0907,Lower back tightness,Lower back,Moderate,2020-10-14,2020-11-15,32,False
+INJ000427,A0909,Hip flexor strain,Hip,Moderate,2023-07-10,2023-07-13,3,True
+INJ000428,A0909,Hip flexor strain,Hip,High,2020-11-01,2020-11-18,17,False
+INJ000429,A0918,Hip flexor strain,Hip,High,2020-07-07,2020-07-29,22,False
+INJ000430,A0920,Lower back tightness,Lower back,Moderate,2021-10-15,2021-11-29,45,False
+INJ000431,A0922,Achilles irritation,Achilles,High,2023-10-27,2023-11-10,14,True
+INJ000432,A0923,Hip flexor strain,Hip,Severe,2024-03-21,2024-04-17,27,False
+INJ000433,A0924,Hip flexor strain,Hip,Severe,2022-08-23,2022-09-21,29,False
+INJ000434,A0928,Hamstring strain,Posterior thigh,Moderate,2020-01-02,2020-01-18,16,False
+INJ000435,A0930,Knee pain,Knee,Low,2023-10-25,2023-11-07,13,False
+INJ000436,A0940,Knee pain,Knee,Moderate,2022-09-10,2022-09-13,3,False
+INJ000437,A0940,Calf strain,Lower leg,Moderate,2022-08-10,2022-09-09,30,False
+INJ000438,A0943,Hip flexor strain,Hip,Moderate,2020-07-04,2020-07-30,26,False
+INJ000439,A0946,Hip flexor strain,Hip,Moderate,2024-06-01,2024-07-01,30,True
+INJ000440,A0947,Knee pain,Knee,Low,2021-09-11,2021-09-20,9,True
+INJ000441,A0949,Knee pain,Knee,Moderate,2021-05-08,2021-05-18,10,False
+INJ000442,A0955,Achilles irritation,Achilles,Moderate,2020-10-14,2020-10-20,6,False
+INJ000443,A0961,Hamstring strain,Posterior thigh,Moderate,2020-11-19,2020-11-22,3,False
+INJ000444,A0964,Lower back tightness,Lower back,Low,2021-02-05,2021-02-16,11,True
+INJ000445,A0965,Lower back tightness,Lower back,Moderate,2021-08-27,2021-09-21,25,False
+INJ000446,A0968,Calf strain,Lower leg,Moderate,2024-06-25,2024-07-15,20,False
+INJ000447,A0972,Hip flexor strain,Hip,Moderate,2024-07-14,2024-08-13,30,False
+INJ000448,A0976,Hip flexor strain,Hip,Severe,2021-11-16,2021-12-22,36,False
+INJ000449,A0979,Calf strain,Lower leg,High,2020-10-24,2020-11-02,9,False
+INJ000450,A0987,Achilles irritation,Achilles,High,2022-08-09,2022-08-13,4,False
+INJ000451,A0988,Lower back tightness,Lower back,Moderate,2023-12-02,2024-01-02,31,False
+INJ000452,A0993,Hip flexor strain,Hip,High,2022-07-04,2022-07-20,16,False
+INJ000453,A0995,Hamstring strain,Posterior thigh,Low,2021-06-25,2021-08-10,46,False
